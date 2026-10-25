@@ -12,6 +12,7 @@ El proyecto está organizado según las clases maestras del plan de estudios:
 
 ### 🌐 Frontend & Fundamentos
 *   **`Clase Maestra de HTML/`**: Estructura semántica, formularios, SEO básico y accesibilidad web.
+*   **`Clase Maestra de CSS/`**: Fundamentos de estilos, selectores, modelo de caja, Flexbox y maquetación responsive.
 *   **`Clase Maestra de JavaScript/`**: Lógica de programación con JS Moderno (ES6+), manipulación del DOM y asincronía.
 *   **`Clase Maestra de React/`**: Creación de interfaces de usuario interactivas, gestión de estados, hooks y componentes.
 
