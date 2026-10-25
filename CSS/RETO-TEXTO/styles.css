@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  color: white;
+  background-color: #8b1818;
+  padding: 1rem;
+}
+
+h1 {
+  margin: 1rem;
+  text-align: center;
+}
+
+main {
+  padding: 1rem;
+}
+
+section {
+  margin: 1rem 0 0 0;
+}
+
+h2 {
+  font-style: italic;
+}
+
+p {
+  text-align: justify;
+  line-height: 1.5rem;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1rem;
+}
+
+.mision {
+  word-spacing: 0.2rem;
+}
+
+.intro .mision {
+  text-align-last: justify;
+}
+
+.intro,
+.comunidad,
+.contacto {
+  margin-top: 1rem;
+}
+
+a {
+  color: #2e8bd6;
+}
